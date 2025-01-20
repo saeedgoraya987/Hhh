@@ -15,12 +15,8 @@ import uid_generator_pb2
 app = Flask(__name__)
 
 def load_tokens(server_name):
-    if server_name == "IND":
-        with open("token_ind.json", "r") as f:
-            return json.load(f)
-   elif server_name == "PK":
-         with open ("token_pk.json",  "r") as f:
-              return json. load(f) 
+    if server_name == "PK":
+        with open("token_pk.json", "r") as f:
     elif server_name in {"BR", "US", "SAC", "NA"}:
         with open("token_br.json", "r") as f:
             return json.load(f)
