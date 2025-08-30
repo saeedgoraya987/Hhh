@@ -2,7 +2,7 @@
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CR: u19 wwc" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ten-sports-hd-logo.webp?id=64" group-title="Sdm Live Tv",Pk: Ten Sports 
-https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-3H/playlist.m3u8
+https://cdn07isb.tamashaweb.com:8087/jazzauth/157-3H/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR: zim vs ire" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1756384675885.webp?id=48" group-title="Sdm Live Tv",Pk: Tri Series 2025
 https://cdn2aws.tamashaweb.com/out/v1/bbe6ba6d0d1c47fbb8042a49b64db630/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR: A sa t20" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1756208066219.webp?id=90" group-title="Sdm Live Tv",pk: Asia Cup 2025
@@ -10,7 +10,7 @@ https://cdn09khi.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/live/ASIACUP2025/c
 #EXTINF:-1 tvg-id="" tvg-name="CR: epl" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1756384675885.webp?id=48" group-title="Sdm Live Tv",PK: Zim vs SL
 https://cdn16lhr.tamashaweb.com:8087/jazzauth/Zim-v-Sri-25-abr/live/ZIMvsSL_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AT: Animal Plants" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Sdm Live Tv",PK: Animal Plants 
-https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/AnimalPlanet-abr/playlist.m3u8
+https://cdn07isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR: Color Rishtey" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720189938582.webp?id=21" group-title="Sdm Live Tv",PK: Colors Cineplex
 https://cdn12isb.tamashaweb.com:8087/YlUHeDQb7a/Colors-Cineplex-HD-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR: Bein Sport 3 HD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1727720100748.webp?id=81" group-title="Sdm Live Tv",PK: Colors infinity 
@@ -195,3 +195,4 @@ https://cdn12isb.tamashaweb.com:8087/YlUHeDQb7a/PNN-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Pashto-Channel-logo.webp?id=29" group-title="Sdm Live Tv",SP: Pashto tv
 
 https://cdn12isb.tamashaweb.com:8087/YlUHeDQb7a/Pashto1-abr/playlist.m3u8
+
